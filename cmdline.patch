@@ -1,0 +1,4 @@
+--- a/cmdline.txt
++++ b/cmdline.txt
+@@
++ cgroup_memory=1 cgroup_enable=memory
