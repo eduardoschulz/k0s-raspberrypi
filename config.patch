@@ -1,0 +1,14 @@
+--- a/config.txt
++++ b/config.txt
+@@
++# Overclock configuration
++over_voltage=6 
++arm_freq=2000
++gpu_freq=600
++
++sdram_freq=550
++
++# Other performance options
++boot_delay=0
++dtparam=watchdog=on
++gpu_mem=32
